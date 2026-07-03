@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller-pc/raw/main/VJoyServer-v1.0.5.exe",
-  "release_notes": "Improved auto-updater: The downloaded file is now properly renamed to match the latest version, and the old version is deleted."
+  "version": "1.0.6",
+  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller-pc/raw/main/VJoyServer-v1.0.6.exe",
+  "release_notes": "Added the app logo icon to the Update Available window."
 }
