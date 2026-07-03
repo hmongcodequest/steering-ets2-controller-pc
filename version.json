@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller-pc/raw/main/VJoyServer-v1.0.2.exe",
-  "release_notes": "Added automatic USB Connection (No cmd needed!). Automatically configures ADB reverse when phone is plugged in."
+  "version": "1.0.3",
+  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller-pc/raw/main/VJoyServer-v1.0.3.exe",
+  "release_notes": "Added Footer displaying the version and developer name."
 }
