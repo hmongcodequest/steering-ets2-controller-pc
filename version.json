@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller-pc/raw/main/VJoyServer-v1.0.0.exe",
-  "release_notes": "First release of VJoy Steering Controller PC Receiver with Auto-Update support."
+  "version": "1.0.1",
+  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller-pc/raw/main/VJoyServer-v1.0.1.exe",
+  "release_notes": "Added automatic USB Connection (No cmd needed!). Automatically configures ADB reverse when phone is plugged in."
 }
