@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller-pc/raw/main/VJoyServer-v1.0.4.exe",
-  "release_notes": "Fixed Auto-Update crashing with 'Failed to load Python DLL' error. Added Footer displaying version and developer."
+  "version": "1.0.5",
+  "download_url": "https://github.com/hmongcodequest/steering-ets2-controller-pc/raw/main/VJoyServer-v1.0.5.exe",
+  "release_notes": "Improved auto-updater: The downloaded file is now properly renamed to match the latest version, and the old version is deleted."
 }
